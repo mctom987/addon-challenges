@@ -259,7 +259,7 @@ challenges:
       expReward: 30
       permissionReward: ''
       repeatable: true
-      repeatItemReward: 'DIRT:2 VINE:20'
+      repeatItemReward: 'DIRT:2 VINE:5'
       repeatRewardText: '2 dirt blocks and 5 vines'
       repeatMoneyReward: 5
       repeatExpReward: 10
